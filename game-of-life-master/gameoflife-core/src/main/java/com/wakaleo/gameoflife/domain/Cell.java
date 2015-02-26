@@ -1,5 +1,5 @@
 package com.wakaleo.gameoflife.domain;
-
+//MyFirstTestFeature Testing branching enz.
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
