@@ -15,9 +15,9 @@ public class WhenYouCreateACell {
         Cell cell = Cell.fromSymbol("*");
         assertThat(cell, is(LIVE_CELL));
         
-        String str1 = new String ("abc");
-        String str2 = new String ("abcd");
-        assertEquals(str1, str2);
+        //String str1 = new String ("abc");
+        //String str2 = new String ("abcd");
+        //assertEquals(str1, str2);
     }
 
     @Test
